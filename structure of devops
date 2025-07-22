@@ -1,0 +1,14 @@
+backend/
+   └── index.js
+terraform/
+   ├── main.tf           
+   ├── variables.tf      
+   └── outputs.tf 
+scripts/
+   └── user_data.sh
+resources/
+   └── postman_collection.json
+index.html
+app.js
+style.css
+README.md
