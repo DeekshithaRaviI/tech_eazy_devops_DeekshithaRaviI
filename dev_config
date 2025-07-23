@@ -1,0 +1,2 @@
+DB_HOST=dev-database.local
+APP_PORT=8080
